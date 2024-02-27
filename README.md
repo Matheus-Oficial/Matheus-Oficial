@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, sou Matheus</h1>
 <h3 align="center">Desenvolvido back-and</h3>
 
-Atualmente estou aprendendo **JAVASCRIPT,CSS,HTML
+Atualmente estou aprendendo JAVASCRIPT,CSS,HTML
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
